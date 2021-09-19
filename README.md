@@ -1,6 +1,6 @@
 # JS Dude Clone (React)
 ## Site-Link
-https://sourcecodebd.github.io/JS-Dude-Clone/
+https://js-dude-clone.netlify.app/
 
 ## Author 
 [Nafi Mahmud][author]
